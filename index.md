@@ -1,8 +1,110 @@
-# The Hurricane Project
 
-Welcome to my website! On here, you will find a collection of mhy research, ideas, and project goals.
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Index</title>
+<style type="text/css">
+body {
+	background-color: #609;
+}
+#big {
+	background-color: #333;
+	width: 60%;
+	height: 75%;
+	-webkit-box-shadow: 11px 15px 110px 33px rgba(0,0,0,0.76);
+	-moz-box-shadow: 11px 15px 110px 33px rgba(0,0,0,0.76);
+	box-shadow: 11px 15px 110px 33px rgba(0,0,0,0.76);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 7%;
+	margin-bottom: 7%;
+	border-radius: 30px 30px 30px 30px;
+	-moz-border-radius: 30px 30px 30px 30px;
+	-webkit-border-radius: 30px 30px 30px 30px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+</style>
+<link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+a:link {
+	color: #CCF;
+}
+a:visited {
+	color: #333;
+}
+a:hover {
+	color: #90F;
+	font-weight: bold;
+}
+.footer {
+	color: #CCF;
+}
+.footer {
+	font-size: 9px;
+	font-style: italic;
+}
+#big div p {
+	color: #CCC;
+	font-weight: bold;
+	font-style: italic;
+	font-family: cursive;
+	font-size:20px;
+}
+</style>
+<script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+</head>
 
+<body>
+<div id="big">
+<div>
+  <div align="center"><img src="indexTitle.png" width="100%" height="201" /> </div>
+</div>
+<div align="center">
+  <ul id="MenuBar1" class="MenuBarHorizontal">
+    <li><a class="MenuBarItemSubmenu" href="#">Html</a>
+      <ul>
+        <li><a href="../rosov_imageGallery/imageGallery2.html">Image Gallery</a></li>
+        <li><a href="../responsiveWebChallenge_rosov_park/Index.html">New Technologies</a></li>
+         <li><a href="../flexibleMedia_rosov /index.html">sushi website</a></li>
+        
+      </ul>
+    </li>
+    <li><a href="http://www.google.com">Link to google</a></li>
+    <li><a class="MenuBarItemSubmenu" href="#">Javascript</a>
+      <ul>
+        <li><a href="../JavaPractice/Tick/TickTackToe.html">Tick Tack Toe</a></li>
+        <li><a href="../matchingGame /memory.html">Matching Game</a></li>
+        <li><a href="../2048/2048.html">2048</a></li>
+      </ul>
+    </li>
+    <li><a class="MenuBarItemSubmenu" href="#">Apps</a>
+    <ul>
+        <li><a href="../app/app sound/IndexApp.html">Soundboard</a></li>
+        <li><a href="../app/app paint/Paintpot.html">PaintPot</a></li>
+        <li><a href="../app/molemash app/Molemashapp.html">Molemash</a></li>
+         <li><a href="../app/app fencing/appfencing.html">Fencing</a></li>
+      </ul>
+      </li>
+  </ul>
+</div>
 
+<p align="center">&nbsp;</p>
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+<div>
+<p align="center">I Didn't Break it.......I just made it better!</p>
+  <p>&nbsp;</p>
+  <p align="center"><img src="images/phoenix.png" width="50%" height="50%" align="middle" /></p>
+  
+</div>
 
-[Project Outline]()
-
+</div>
+<div align="center">
+  <p><span class="footer">Made by Lisa Rosov 2014</span></p>
+  <p> <span class="footer"><a href="mailto:lrosov7@students.d125.org">Contact Me Here!</a></span></p>
+</div>
+</body>
+</html>
