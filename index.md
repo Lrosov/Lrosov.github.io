@@ -1,27 +1,8 @@
-# Research/ Documentation
+# The Hurricane Project
 
-1. Research exact hurricane conditions in coastal areas.
+Welcome to my website! On here, you will find a collection of mhy research, ideas, and project goals.
 
-2. Research damages caused by these conditions.
 
-3. Research and understand existing Government coastal housing guidelines.
 
-4. Research existing (patented) solutions to damage/ prevention of damage caused by hurricanes within existing guidelines.
+[Project Outline]()
 
-5. Research unofficial/not patented solutions to damage/ prevention of damage caused by hurricanes.
-
-# Brainstorm/ Prototype/ Test
-
-1. Brainstorm Ideas based on research
-
-2. Design a prototype building on Autodesk Revit utilizing research.
-
-3. Build initial prototype, and test strength in a laboratory setting.
-
-4. Share Solution
-
-# Finalize design on Revit.
-
-2. Build final housing model.
-
-3. Present model to world.
